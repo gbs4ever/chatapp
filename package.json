@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "start": "node index.js",
   "dependencies": {
     "ejs": "^2.6.2",
     "express": "^4.17.1",
