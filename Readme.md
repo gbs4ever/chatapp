@@ -1,4 +1,4 @@
-This is a basic chat app using Node.js and sockets 
+This is a basic chat app using Node.js and sockets to be added to a bigger app 
 ## Prerequisites
 * Node.js
 * [Yarn](https://yarnpkg.com/en/)
